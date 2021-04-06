@@ -1,4 +1,39 @@
-### Hi there 👋
+### Olá!, Meu nome é Rodrigo Inhaquites 👋
+
+Graduando em Análise e Desenvolvimento de Sistemas
+
+Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvolvi diversos trabalhos como:
+- Sites em WebForms;
+- Sistemas em WinForms;
+- Sistemas em Wpf;
+- Web Services;
+- Apis em Wcf;
+- Apis RestFull;
+- Banco de Dados SQLServer, MySQL, Oracle
+- ORM NHibernate, Entity Framework, Dapper
+
+⚡ Meu ponto mais forte é a comunicação e Relacionamento com o Cliente
+
+Onde me encontrar:
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-inhaquites-8707a7174/) 
+
+🚀💻 Tecnologias e Ferramentas
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=inhaquites)
 
 <!--
 **inhaquites/inhaquites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
