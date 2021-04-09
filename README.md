@@ -7,6 +7,7 @@ Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvol
 - Sistemas em WinForms;
 - Sistemas em Wpf;
 - Web Services;
+- Windows Services;
 - Apis em Wcf;
 - Apis RestFull;
 - Banco de Dados SQLServer, MySQL, Oracle
