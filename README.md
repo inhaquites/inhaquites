@@ -14,6 +14,10 @@ Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvol
 - ORM NHibernate, Entity Framework, Dapper
 
 
+
+- 🔭 Atualmente trabalho com o desenvolvimento de Web APIs Restful e integrações, com .NetCore utilizando C# como linguagem de Programação. Aplicando Clean code, princípios de Design Patterns e arquiteturas SOLID, DDD e TDD.
+
+
 Onde me encontrar:
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-inhaquites-8707a7174/) 
