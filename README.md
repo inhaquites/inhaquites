@@ -1,6 +1,6 @@
-### Olá!, Meu nome é Rodrigo Inhaquites 👋
+## Olá!, Meu nome é Rodrigo Inhaquites 👋
 
-Graduando em Análise e Desenvolvimento de Sistemas
+### Graduando em Análise e Desenvolvimento de Sistemas
 
 Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvolvi diversos trabalhos como:
 - Sites em WebForms;
