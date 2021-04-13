@@ -20,7 +20,7 @@ Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvol
 
 Onde me encontrar:
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-inhaquites-8707a7174/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigoinhaquites/) 
 
 🚀💻 Tecnologias e Ferramentas
 
