@@ -3,7 +3,7 @@
 ### Graduando em Análise e Desenvolvimento de Sistemas
 
 Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvolvi diversos trabalhos como:
-- Sites em WebForms;
+- Sistemas em WebForms;
 - Sistemas em WinForms;
 - Sistemas em Wpf;
 - Web Services;
