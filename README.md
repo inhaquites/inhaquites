@@ -40,6 +40,8 @@ Onde me encontrar:
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=inhaquites&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhaquites&layout=compact)](https://github.com/inhaquites/github-readme-stats)
+
 <!--
 **inhaquites/inhaquites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
