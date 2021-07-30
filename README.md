@@ -42,6 +42,12 @@ Onde me encontrar:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhaquites&layout=compact&show_icons=true&theme=dracula)](https://github.com/inhaquites/github-readme-stats)
 
+<div>
+  <a href="https://github.com/inhaquites">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inhaquites&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhaquites&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!--
 ![Snake animation](https://github.com/inhaquites/inhaquites/blob/output/github-contribution-grid-snake.svg)
 -->
