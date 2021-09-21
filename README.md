@@ -15,7 +15,7 @@ Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvol
 
 
 
-🔭 Atualmente trabalho com o desenvolvimento de Web APIs Restful e integrações, com .NetCore utilizando C# como linguagem de Programação. Aplicando Clean code, princípios de Design Patterns e arquiteturas SOLID, DDD e TDD.
+🔭 Atualmente trabalho com o desenvolvimento de Web APIs Restful e integrações, com .NetCore utilizando C# como linguagem de Programação. Aplicando Clean code, princípios de Design Patterns e arquiteturas SOLID e DDD.
 
 
 Onde me encontrar:
