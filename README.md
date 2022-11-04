@@ -1,21 +1,22 @@
 ## Olá!, Meu nome é Rodrigo Inhaquites 👋
 
-### Graduando em Análise e Desenvolvimento de Sistemas
+### Graduado em Análise e Desenvolvimento de Sistemas
 
 Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvolvi diversos trabalhos como:
-- Sistemas em WebForms;
-- Sistemas em WinForms;
-- Sistemas em Wpf;
+- Sistemas em WebForms, WinForms, Wpf;
 - Web Services;
 - Windows Services;
 - Apis em Wcf;
 - Apis RestFull;
-- Banco de Dados SQLServer, MySQL, Oracle
+- Banco de Dados SQLServer, MySQL, Oracle, Redis e SQLite
 - ORM NHibernate, Entity Framework, Dapper
+- RabbitMQ, Azure Service Bus
+- Kubernetes
+- Docker
 
 
 
-🔭 Atualmente trabalho com o desenvolvimento de Web APIs Restful e integrações, com .NetCore utilizando C# como linguagem de Programação. Aplicando Clean code, princípios de Design Patterns e arquiteturas SOLID e DDD.
+🔭 Atualmente trabalho com o desenvolvimento de Web APIs Restful e integrações, com .NetCore (3.1, 5 e 6) utilizando C# como linguagem de Programação. Aplicando Clean code, princípios de Design Patterns e arquiteturas SOLID, DDD e Clean Architecture.
 
 
 Onde me encontrar:
