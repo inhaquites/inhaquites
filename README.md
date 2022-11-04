@@ -8,6 +8,8 @@ Trabalho com desenvolvimento em C# desde 2007 e com esta tecnologia já desenvol
 - Windows Services;
 - Apis em Wcf;
 - Apis RestFull;
+
+Ferramentas Utilizadas:
 - Banco de Dados SQLServer, MySQL, Oracle, Redis e SQLite
 - ORM NHibernate, Entity Framework, Dapper
 - RabbitMQ, Azure Service Bus
